@@ -1,6 +1,5 @@
 function main(numOne, numTwo){
-var numOne;
-var numTwo;
+
 var product;
    product = numOne * numTwo;
 
