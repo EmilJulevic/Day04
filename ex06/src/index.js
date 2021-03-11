@@ -1,6 +1,5 @@
 function main(numOne, numTwo){
-    var numOne;
-    var numTwo;
+    
     var myQuotient;
  
     myQuotient = numOne / numTwo;
