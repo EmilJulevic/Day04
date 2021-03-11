@@ -6,8 +6,7 @@ function main(numOne, numTwo){
  } else { 
 
     var quotient;
-    var numOne;
-    var numTwo;
+    
 
     quotient = numOne / numTwo
 
